@@ -1,0 +1,6 @@
+{
+  "name": "Professional Portfolio",
+  "description": "A modern, responsive personal portfolio website showcasing biography, projects, skills, experience, and professional links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
