@@ -228,7 +228,7 @@ export const Hero: React.FC<HeroProps> = ({ bio, darkMode, onOpenResume }) => {
                       {bio.name}
                     </h3>
                     <p className={`text-xs font-mono ${darkMode ? 'text-indigo-400' : 'text-indigo-600'} mb-1.5`}>
-                      Full-Stack & Cloud
+                      Data Science and AI & Machine Learning
                     </p>
                     <p className={`text-xs flex items-center gap-1 ${darkMode ? 'text-slate-400' : 'text-slate-500'}`}>
                       <MapPin className="w-3.5 h-3.5 text-slate-400" />
