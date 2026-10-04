@@ -7,7 +7,7 @@ export const defaultPortfolioData: PortfolioData = {
     tagline: "Building Machine learning models and AI systems for real-world applications",
     location: "India",
     email: "Satishmaurya112007@gmail.com",
-    avatarUrl: "",
+    avatarUrl: "https://media.istockphoto.com/id/1489161384/photo/artificial-intelligence-new-age-people-concept.webp?a=1&b=1&s=612x612&w=0&k=20&c=tUHBpGtGIGABp_vRO_X--nspBBjc8vJQpKgYpEVRcyY=",
     availability: {
       status: "Learning",
       details: "Actively open to Full-time Machine Learning Engineering roles & high-impact ML/AI contracts"
