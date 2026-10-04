@@ -238,7 +238,7 @@ export const Hero: React.FC<HeroProps> = ({ bio, darkMode, onOpenResume }) => {
                 </div>
 
                 {/* Micro Terminal / Status Snippet */}
-                <div className={`p-3.5 rounded-xl font-mono text-xs mb-6 border ${
+                {/* <div className={`p-3.5 rounded-xl font-mono text-xs mb-6 border ${
                   darkMode 
                     ? 'bg-slate-950/80 border-slate-800/90 text-slate-300' 
                     : 'bg-slate-900 text-slate-200 border-slate-800'
@@ -254,7 +254,7 @@ export const Hero: React.FC<HeroProps> = ({ bio, darkMode, onOpenResume }) => {
                   <p className="text-emerald-400">// Core Philosophy</p>
                   <p className="text-slate-300 truncate"><span className="text-indigo-400">const</span> stack = [<span className="text-amber-300">"React"</span>, <span className="text-amber-300">"Go"</span>, <span className="text-amber-300">"AWS"</span>];</p>
                   <p className="text-slate-300"><span className="text-indigo-400">export default</span> <span className="text-cyan-300">craftModernSoftware()</span>;</p>
-                </div>
+                </div> */}
 
                 {/* Stat Badges Grid */}
                 <div className="grid grid-cols-2 gap-3">
