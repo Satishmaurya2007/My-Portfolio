@@ -178,6 +178,39 @@ export const defaultPortfolioData: PortfolioData = {
       issueDate: "Jan 2026",
       credentialUrl: "",
       credentialId: ""
+    },
+     {
+      id: "cert-3",
+      name: "Foundation Course on AI readiness",
+      issuer: "Indian Institute of Creative Technologies",
+      issueDate: "Aug 2026",
+      credentialUrl: "",
+      credentialId: ""
+    },
+     {
+      id: "cert-4",
+      name: "Google Prompting Essentials Specialization",
+      issuer: "Google",
+      issueDate: "Aug 2026",
+      credentialUrl: "",
+      credentialId: ""
+    },
+     {
+      id: "cert-5",
+      name: "Google AI essentials",
+      issuer: "Google",
+      issueDate: "Aug 2026",
+      credentialUrl: "",
+      credentialId: ""
+    },
+     {
+      id: "cert-6",
+      name: "Data Analytics Using AI",
+      issuer: "IBM Skillsbuild",
+      issueDate: "Jun 2026",
+      credentialUrl: "",
+      credentialId: ""
     }
+    
   ]
 };
