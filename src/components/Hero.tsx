@@ -249,12 +249,12 @@ export const Hero: React.FC<HeroProps> = ({ bio, darkMode, onOpenResume }) => {
                       <span className="w-2.5 h-2.5 rounded-full bg-amber-500 inline-block" />
                       <span className="w-2.5 h-2.5 rounded-full bg-emerald-500 inline-block" />
                     </span>
-                    <span>engineer-config.ts</span>
+                    {/* <span>engineer-config.ts</span>
                   </div>
                   <p className="text-emerald-400">// Core Philosophy</p>
                   <p className="text-slate-300 truncate"><span className="text-indigo-400">const</span> stack = [<span className="text-amber-300">"React"</span>, <span className="text-amber-300">"Go"</span>, <span className="text-amber-300">"AWS"</span>];</p>
                   <p className="text-slate-300"><span className="text-indigo-400">export default</span> <span className="text-cyan-300">craftModernSoftware()</span>;</p>
-                </div>
+                </div> */}
 
                 {/* Stat Badges Grid */}
                 <div className="grid grid-cols-2 gap-3">
