@@ -27,7 +27,7 @@ export const Projects: React.FC<ProjectsProps> = ({ projects, darkMode }) => {
     'All',
     'Full Stack',
     'Backend & Cloud',
-    'AI & ML',
+    'AI & Machine Learning',
     'Frontend',
     'Open Source'
   ];
